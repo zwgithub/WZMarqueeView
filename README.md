@@ -1,4 +1,4 @@
 WZMarqueeView
 ==============
 
-A custom marquee lable for iOS.
+A custom marquee lable for iOS . 
